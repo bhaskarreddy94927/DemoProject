@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111259" started-at="2019-11-16T17:37:18Z" finished-at="2019-11-16T17:39:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111259" started-at="2019-11-16T17:37:18Z" finished-at="2019-11-16T17:39:09Z">
+      <class name="topic_6_Module3_DatePicker.DatePickerDemo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:topic_6_Module3_DatePicker.DatePickerDemo@41ee392b]" name="beforeMethod" is-config="true" duration-ms="16201" started-at="2019-11-16T23:07:18Z" finished-at="2019-11-16T23:07:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:topic_6_Module3_DatePicker.DatePickerDemo@41ee392b]" name="f1" duration-ms="95041" started-at="2019-11-16T23:07:34Z" finished-at="2019-11-16T23:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- topic_6_Module3_DatePicker.DatePickerDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
